@@ -1,4 +1,4 @@
-Hangman Project
+# H1 Hangman Project
 Projected adapted from "The Self-Taught Programmer," by Cory Althoff
 
 Overview
